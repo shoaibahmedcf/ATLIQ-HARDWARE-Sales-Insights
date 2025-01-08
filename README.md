@@ -10,7 +10,10 @@
 <h2><b>Questions (KPIs)</b></h2>
 
 <h2><b>Process</b></h2>
-
+<p>
+- Verify data for any missing values and anomalies, and sort out the same.
+- Made sure data is consistent and clean with respect to data type, data format and values used.
+</p>
 <h2><b>Dashboard</b></h2>
 
 <h2><b>Project Insights</b></h2>
