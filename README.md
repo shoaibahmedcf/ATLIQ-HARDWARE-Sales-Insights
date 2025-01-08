@@ -6,3 +6,13 @@
 
 <h2><b>Dateset Used</b></h2>
 <a href="https://github.com/shoaibahmedcf/ATLIQ-HARDWARE-Sales-Insights/blob/main/ATLIQ_HARDWARE_Dataset.sql">Dataset</a>
+
+<h2><b>Questions (KPIs)</b></h2>
+
+<h2><b>Process</b></h2>
+
+<h2><b>Dashboard</b></h2>
+
+<h2><b>Project Insights</b></h2>
+
+<h2><b>Conclusion</b></h2>
